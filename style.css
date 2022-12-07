@@ -1,0 +1,21 @@
+.hero{
+    background-image: url(./assets/h.jpg.thumb);
+    background-position: 70% 80%;
+    background-size: cover;
+    height: 90vh;
+
+}
+
+
+/* h1{
+    cursor: pointer;
+}
+h3{
+    cursor: pointer;
+}
+p{
+    cursor: pointer;
+}
+img{
+    cursor: pointer;
+} */
