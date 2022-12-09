@@ -19,3 +19,18 @@ p{
 img{
     cursor: pointer;
 } */
+.options-a{
+    background-image: url(./assets/bg2a.webp);
+    background-position: center;
+    background-size: cover;
+    
+}
+.options-b{
+    background-image: url(./assets/bg2b.webp);
+    background-position: center;
+    background-size: cover;
+}
+button:hover{
+    opacity: 0.9;
+    border: 2px solid rgba(130, 130, 130, 0.356);
+}
