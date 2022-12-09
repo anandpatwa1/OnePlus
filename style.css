@@ -7,7 +7,7 @@
 }
 
 
-/* h1{
+h1{
     cursor: pointer;
 }
 h3{
@@ -18,7 +18,7 @@ p{
 }
 img{
     cursor: pointer;
-} */
+}
 .options-a{
     background-image: url(./assets/bg2a.webp);
     background-position: center;
