@@ -34,3 +34,9 @@ button:hover{
     opacity: 0.9;
     border: 2px solid rgba(130, 130, 130, 0.356);
 }
+img{
+    transition: all 0.3s ease-in-out;
+}   
+img:hover{
+    transform: scale(104%) !important;
+}
